@@ -1,0 +1,100 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ .lessonImage {
+  position: sticky;
+    height: auto;
+    width: auto;
+   /* background-color: rgb(0, 255, 128); */
+   border: 1rem;
+   border-color: yellow; 
+ }
+
+
+ .listItem {
+  position: inherit;
+  height: auto;
+  width: auto;
+  background-color: lavenderblush;
+  font-family: -webkit-body;
+}
+
+ img {
+  border: 1px solid #ddd;
+  border-radius: 21px;
+  position: fixed;
+  padding: 0px;
+  margin-left: 37rem;
+  height: 75px;
+  width: 101px;
+}
+appTitle {
+  text-align: center;
+}
+h2.appTitle {
+  text-align: -webkit-center;
+  color: crimson;
+  writing-mode: horizontal-tb;
+}
+
+div {
+  position: relative;
+  height: auto;
+  width: 100%;
+  color: black;
+}
+
+div img {
+  position: inherit;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 2px;
+  margin: inherit;
+}
+header {
+  height: auto;
+  width: auto;
+  margin: inherit
+}
+
+topicImage {
+  height: 10%;
+}
+
+lessonTitle {
+  float: right;
+}
+skillName {
+  float: right;
+}

@@ -1,0 +1,41 @@
+{
+  "short_name": "Harbinger Learning App",
+  "name": "Welcome to Harbinger Knowledge..",
+  "icons": [
+    {
+      "src": "icons/pwa/harbinger.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/pwa/harbinger_7_192x192.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/pwa/harbinger_6_120x120.jpg",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/pwa/harbinger_1_144x144.jpg",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/pwa/harbinger_3_167x167.jpg",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/pwa/harbinger_4_180x180.jpg",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
